@@ -26,10 +26,9 @@ Train the model over multiple epochs, tracking loss.
 
 ## PROGRAM
 
-### Name: Kabira A
-
-### Register Number: 212224040146
-```
+### Name: SRUTHI A
+### Register Number: 212224240162
+```python
 import pandas as pd
 import torch
 import torch.nn as nn
